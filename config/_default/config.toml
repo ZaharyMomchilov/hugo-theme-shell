@@ -56,9 +56,7 @@ ignoreErrors = ["error-remote-getjson"]
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["GitHub", "https://github.com/ZaharyMomchilov"],
-    ["LinkedIn", "linkedin.com/in/zahary-momchilov"],
-    ["Blog", "/empty"],
-    ]
+    ["LinkedIn", "https://linkedin.com/in/zahary-momchilov"],]
 
 [module]
   [module.hugoVersion]
